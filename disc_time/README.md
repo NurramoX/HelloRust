@@ -8,6 +8,7 @@ DISCORD_TOKEN=Y1230984023OUR_TOKE10293192083123N
 
 # Commands
 !spend <time> 	... starts the timer, strongly resembles GitLab's /spend time
+
 !stop			... stops the timer
 
 
